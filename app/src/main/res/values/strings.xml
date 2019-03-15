@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">TopBookList</string>
+    <string name="title_activity_floating">FloatingActivity</string>
+    <string name="book_details">Book Details</string>
+    <string name="instructions">Enter a book title to search.</string>
+    <string name="button_text">Search Book</string>
+    <string name="input_hint">Enter book to search</string>
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="Loading">Loading</string>
+    <string name="google_book">Google Book</string>
+    <string name="results_search">Here is what we found</string>
+    <string name="not_found">Ooopsey-Daisy! Nothing found :(</string>
+    <string name="pages">Pages: </string>
+    <string name="publisher">Publisher: </string>
+    <string name="preview_link">Preview link</string>
+    <string name="categories">Categories:</string>
+    <string name="language">Language:</string>
+    <string name="published_at">Published at: </string>
+    <string name="top_ten_title">Top 10 NY bestsellers at the moment</string>
+
+    <string-array name="books_titles">
+        <item>Do Androids Dream of Electric Sheep? by Philip K. Dick</item>
+        <item>Everything I Never Told You by Celeste Ng</item>
+        <item>Is Everyone Hanging Out Without Me? (and Other Concerns) by Mindy Kaling</item>
+        <item>The Electric Kool-Aid Acid Test by Tom Wolfe</item>
+        <item>Are You There, Vodka? It’s Me, Chelsea by Chelsea Handler</item>
+        <item>The Devil Wears Prada by Lauren Weisberger</item>
+        <item>The Curious Incident of the Dog in the Night-Time by Mark Haddon</item>
+        <item>How to Win Friends and Influence People by Dale Carnegie</item>
+        <item>Cloudy with a Chance of Meatballs by Judi Barrett</item>
+        <item>Love in the Time of Cholera by Gabriel García Márquez</item>
+    </string-array>
+
+    <string-array name="books_info">
+        <item>One of the legendary media titles of all-time, Do Androids Dream of Electric Sheep? has a lot to do with androids and a little bit to do with electric sheep. It hints at one of the more pressing questions about robotics, though, which is the capacity for robots to think – Philip Dick was considering the issue in 1968. The book was the basis for the movie Blade Runner.</item>
+        <item>If you were to see this Celeste Ng novel in a bookstore, you would probably think, “That’s going to be a really sad story about someone dying.” And you would be right. The title grips a reader because they want to know what wasn’t told and why it wasn’t told. Everything I Never Told You is so much more than a sob story, though, and that’s why it won countless awards back in 2014.</item>
+        <item>Mindy Kaling gets right to the heart of the issue in this comedic autobiography. Let’s be real: we all ask this question when we’re laying in bed on a Friday night, curled up with a book. At least if we’re reading Is Everyone Hanging Out Without Me? we’ll have Mindy by our side! </item>
+        <item>The Electric Kool-Aid Acid Test screams cool, since nothing is cooler than Kool-Aid…and electricity. And LSD, especially in the 1960s. Tom Wolfe’s nonfiction story details the touring life and LSD use of a band. That’s a pretty cool story to tell.</item>
+        <item>Instead of looking for God, Chelsea Handler is looking for a drink in Are You There, Vodka? It’s Me, Chelsea. It’s funny and blatant, just like the comedian. The best-selling autobiography of essays helped to launch Handler into even greater fame.</item>
+        <item>Before it was a feature film (and soon-to-be Broadway musical), The Devil Wears Prada was a best-selling book. Lauren Weisberger’s title sticks so well because of the imagery it invokes, with an illusion of a fiery being wearing Prada heels. We’ve probably all met someone like this, too… </item>
+        <item>The Curious Incident of the Dog in the Night-Time is now a successful stage adaptation, but the title lacks some originality; it’s actually a Sherlock Holmes quote from an Sir Arthur Conan Doyle short story. Mark Haddon applies it perfectly, however, to the story about a savant who is just a bit different than everyone else.</item>
+        <item>One of the best selling self-help books of all-time, How to Win Friends and Influence People immediately gets to the point. Dale Carnegie wanted people to be influenced by his book about influencing people and a title about finding success was the perfect way to get people’s attention.</item>
+        <item>The classic children’s book uses a spectacular image to grab people’s attention: Could you imagine looking up in the sky and seeing meatballs beginning to rain down? That’s the colorful image the equally colorful book creates with its title. Judi Barrett’s then-husband, Ron Barrett, helped the title come to life with some stunning illustrations.</item>
+        <item>Love in the Time of Cholera is one of the most respected books of all-time. It helps to have a title that raises the stakes before a reader even opens the novel. Gabriel Garcia Marquez notes “time” in his title, but the story has a tragic, timeless quality about it. You already know that a story of love during an epidemic that killed thousands will be heart-wrenching. </item>
+
+    </string-array>
+
+    <array name="books_images">
+        <item>@drawable/books_159712</item>
+        <item>@drawable/books_159866</item>
+        <item>@drawable/open_159621</item>
+        <item>@drawable/pexels_photo</item>
+        <item>@drawable/pexels_69004</item>
+        <item>@drawable/pexels_694740</item>
+        <item>@drawable/pexels_112785</item>
+        <item>@drawable/pexels_1204743</item>
+        <item>@drawable/pexels_1301585</item>
+        <item>@drawable/pexels_1771217</item>
+        <item>@drawable/pexels_94740</item>
+    </array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="favorites">Favorites</string>
+    <string name="top_10">Top 10</string>
+    <string name="add_to">Add to </string>
+    <string name="go_to_top_10_tab_and_start_exploring">Go to Top 10 tab and start exploring</string>
+    <string name="no_books_yet">No books yet</string>
+    <string name="added_to">Added to</string>
+    <string name="search">Search</string>
+</resources>
